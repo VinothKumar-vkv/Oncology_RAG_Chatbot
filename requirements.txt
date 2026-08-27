@@ -1,0 +1,13 @@
+neo4j>=5.20.0
+ollama>=0.3.0
+rank-bm25
+qdrant-client
+sentence-transformers
+transformers
+torch
+numpy
+scikit-learn
+pandas
+tqdm
+python-dotenv
+pymupdf

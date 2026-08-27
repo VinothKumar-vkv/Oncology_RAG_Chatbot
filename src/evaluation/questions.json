@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "What is breast cancer?",
+        "reference_answer": "Breast cancer is a malignant disease in which abnormal cells in the breast grow uncontrollably, forming a tumor that may invade nearby tissues and spread to distant organs through metastasis."
+    },
+    {
+        "id": 2,
+        "question": "What is HER2 positive breast cancer?",
+        "reference_answer": "HER2-positive breast cancer is a subtype of breast cancer characterized by overexpression or amplification of the HER2 gene. It tends to grow aggressively but responds well to HER2-targeted therapies such as trastuzumab."
+    },
+    {
+        "id": 3,
+        "question": "What is BRCA1 mutation?",
+        "reference_answer": "A BRCA1 mutation is an inherited genetic alteration that significantly increases the risk of breast and ovarian cancers by impairing DNA repair mechanisms."
+    },
+    {
+        "id": 4,
+        "question": "How does trastuzumab work?",
+        "reference_answer": "Trastuzumab is a monoclonal antibody that targets the HER2 receptor on cancer cells, inhibiting tumor growth and promoting immune-mediated destruction of HER2-positive cancer cells."
+    },
+    {
+        "id": 5,
+        "question": "What is acute myeloid leukemia?",
+        "reference_answer": "Acute myeloid leukemia is a rapidly progressing cancer of the bone marrow characterized by the uncontrolled proliferation of immature myeloid cells that interfere with normal blood cell production."
+    },
+    {
+        "id": 6,
+        "question": "What is immunotherapy?",
+        "reference_answer": "Immunotherapy is a cancer treatment that enhances or restores the body's immune system to recognize and destroy cancer cells using approaches such as immune checkpoint inhibitors and CAR-T cell therapy."
+    },
+    {
+        "id": 7,
+        "question": "What causes melanoma?",
+        "reference_answer": "Melanoma is primarily caused by DNA damage in melanocytes due to excessive ultraviolet radiation exposure, along with genetic susceptibility and environmental risk factors."
+    },
+    {
+        "id": 8,
+        "question": "What are the symptoms of lung cancer?",
+        "reference_answer": "Common symptoms of lung cancer include persistent cough, coughing up blood, chest pain, shortness of breath, unexplained weight loss, fatigue, and recurrent respiratory infections."
+    },
+    {
+        "id": 9,
+        "question": "What is chemotherapy?",
+        "reference_answer": "Chemotherapy is a systemic cancer treatment that uses cytotoxic drugs to destroy rapidly dividing cancer cells, although it may also affect healthy rapidly dividing cells."
+    },
+    {
+        "id": 10,
+        "question": "What is targeted therapy?",
+        "reference_answer": "Targeted therapy is a cancer treatment that specifically blocks molecular targets involved in cancer growth and progression, resulting in more precise treatment with fewer effects on normal cells than conventional chemotherapy."
+    }
+]

@@ -1,0 +1,23 @@
+================================================================================
+ONCOLOGY AGENTIC RAG - EVALUATION SUMMARY
+================================================================================
+
+Questions Evaluated : 10
+
+LLM-as-a-Judge Metrics
+----------------------------------------
+Faithfulness (%)              : 78.00%
+Answer Relevancy (%)          : 80.00%
+Context Precision (%)         : 74.00%
+Context Recall (%)            : 80.00%
+
+Performance Metrics
+----------------------------------------
+retrieval_time                : 5.477 sec
+reranking_time                : 0.391 sec
+generation_time               : 40.425 sec
+total_time                    : 46.293 sec
+
+Retrieval Statistics
+----------------------------------------
+Average Retrieved Documents : 8.00

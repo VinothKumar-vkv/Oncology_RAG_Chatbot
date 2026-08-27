@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "question": "What is breast cancer?",
+        "reference_answer": "Breast cancer is a malignant disease in which abnormal breast cells grow uncontrollably and may spread to other parts of the body."
+    },
+    {
+        "id": 2,
+        "question": "What is HER2 positive breast cancer?",
+        "reference_answer": "HER2-positive breast cancer is a subtype characterized by overexpression of the HER2 protein and is commonly treated with trastuzumab."
+    }
+]

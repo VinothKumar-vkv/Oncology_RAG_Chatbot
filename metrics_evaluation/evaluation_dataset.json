@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "What is breast cancer?",
+        "ground_truth": "Breast cancer is a malignant tumor that develops from breast epithelial cells."
+    },
+    {
+        "id": 2,
+        "question": "What are the common symptoms of lung cancer?",
+        "ground_truth": "Common symptoms include persistent cough, chest pain, coughing up blood, shortness of breath, and unexplained weight loss."
+    },
+    {
+        "id": 3,
+        "question": "What is chemotherapy?",
+        "ground_truth": "Chemotherapy is a cancer treatment that uses drugs to destroy or slow the growth of rapidly dividing cancer cells."
+    },
+    {
+        "id": 4,
+        "question": "What is immunotherapy?",
+        "ground_truth": "Immunotherapy is a treatment that enhances the immune system to recognize and destroy cancer cells."
+    },
+    {
+        "id": 5,
+        "question": "What is metastasis?",
+        "ground_truth": "Metastasis is the spread of cancer cells from the primary tumor to distant parts of the body."
+    }
+]
